@@ -11,3 +11,5 @@ https://github.com/aurora-0025/gradient-terminal
 
 
 Betterdiscord
+
+MelsoLGS NF nerd font
