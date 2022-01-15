@@ -1,6 +1,10 @@
 # Dotfiles-gruvbox
 dotfiles for linux
 
+
+Wallpaper: https://gitlab.com/exorcist365/wallpapers/-/blob/master/gruvbox/houseonthesideofalake.jpg
+
+
 Needed: 
 Tide
 https://github.com/IlanCosman/tide
